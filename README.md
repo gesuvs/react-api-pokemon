@@ -23,6 +23,40 @@ Projeto desenvolvido utilizando as seguintes tecnologias
 
  
 
+---
+
+## Como executar o projeto
+
+Bem simples, basta ter instalado no seu computador, é necessario uma versao do Node ≥ 10.15  instalado. 
+
+Para iniciar, clone o repositorio para um local especifico e dentro da pasta front-end, execute o seguinte comando:
+
+```bash
+npm install # or npm i
+
+# or
+
+yarn install # or yarn
+```
+
+Leva alguns minutos...
+
+Apos feita a instalação, faça:
+
+```bash
+npm start # or npm run start
+
+# or
+
+yarn start
+```
+
+Abrir no navegador, no endereço: http://localhost:3000
+
+![front-end/public/home_page.png](front-end/public/home_page.png)
+
+Tela de inicio do projeto
+
 ## Melhorias a ser implementadas
 
 - Refatorar o codigo para otimização
