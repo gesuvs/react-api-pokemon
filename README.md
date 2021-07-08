@@ -53,7 +53,7 @@ yarn start
 
 Abrir no navegador, no endereço: http://localhost:3000
 
-![front-end/public/home_page.png](front-end/public/home_page.png)
+![Pagina de inicio da aplicação](./front-end/public/home_page.png)
 
 Tela de inicio do projeto
 
